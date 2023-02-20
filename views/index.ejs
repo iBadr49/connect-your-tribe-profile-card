@@ -6,8 +6,8 @@
   <img src= "<%= member.avatar %>" alt="avatar van <%= member.name %>" />
   
   <div class="text">
-  <h2> <%= member.name %> </h2> 
-  <p> <%= member.bio.html %> </p>
+  <h2> <%= member.prefix %>. <%= member.name %> </h2> 
+  <p> <%- member.bio.html %> </p>
   </div>
   
   <span class="right bottom"><a href="contact" > CONTACT </a></span> 
