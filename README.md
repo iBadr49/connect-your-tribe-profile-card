@@ -18,7 +18,7 @@
 
 - Ik heb een eerder gemaakte visitekaartje die ik in week 1 heb gemaakt opnieuw ontworpen en gebouwd. Ik heb deze opdracht voor het eerst met Node gewerkt en het visitekaartje met een REST API en JSON herontworpen, gebouwd en gepubliceerd via "cyclic", ik heb mijn visitekaartje simpel gehouden de bedoeling was om data uit de Api uithalen. 
 
-- 🌐 > **Url:**
+- 🌐 > https://good-jade-perch-gown.cyclic.app
 
 ## Kenmerken
 <!-- Bij Kenmerken staat welke technieken zijn gebruikt en hoe. Wat is de HTML structuur? Wat zijn de belangrijkste dingen in CSS? Wat is er met Javascript gedaan en hoe? Misschien heb je een framwork of library gebruikt? -->
@@ -40,6 +40,8 @@
 ```
 
 ## Bronnen
+- 'Justus' Workshop
+-  https://github.com/iBadr49/your-tribe-profile-card (VK uit sprint 1)
 
 
 ## Licentie
