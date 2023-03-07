@@ -4,7 +4,7 @@
 <!-- Geef je project een titel en schrijf in één zin wat het is -->
 <img width="100%" alt="Scherm­afbeelding 2023-03-07 om 19 28 39" src="https://user-images.githubusercontent.com/112857932/223527748-d96e3a06-7eba-4cf9-8c53-5e779a7ffc4d.png">
 
-## Inhoudsopgave
+## 📚 Inhoudsopgave
 
   * [Beschrijving](#beschrijving)
   * [Kenmerken](#kenmerken)
