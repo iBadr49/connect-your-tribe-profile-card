@@ -3,10 +3,13 @@
 
         <div id="gradient"></div>
   <div id="card">
+    <!-- Hier haal ik mijn Avatar uit de Api -->
   <img src= "<%= member.avatar %>" alt="avatar van <%= member.name %>" />
   
   <div class="text">
+    <!-- Hier haal ik mijn prefix & mijn naam uit de Api -->
   <h2> <%= member.prefix %>. <%= member.name %> </h2> 
+  <!-- Hier haal ik mijn Bio uit -->
   <p> <%- member.bio.html %> </p>
   </div>
   
