@@ -8,6 +8,11 @@ const data = await fetch(url).then((response) => response.json())
 // Maak een nieuwe express app aan
 const app = express()
 
+// Voeg willekeurige data toe, als het er niet is
+// if (!data.city) {
+//   data.city = 'Amsterdam';
+// }
+
 // Stel ejs in als template engine en geef de 'views' map door
 app.set('view engine', 'ejs')
 app.set('views', './views')
